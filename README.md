@@ -59,8 +59,12 @@ Output: `"<?aid style="50" featureSet="257" product="6.0(31)" ?>"`
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":3699,"width":798,"height":182,"sizeSlug":"large","linkDestination":"none"} -->
-<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://batch-man.com/wp-content/uploads/2022/05/image-18-1024x234.png" alt="" class="wp-image-3699" width="798" height="182"/><figcaption>How editline is used</figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://batch-man.com/wp-content/uploads/2022/05/image-18-1024x234.png" alt="" class="wp-image-3699" width="798" height="182"/>
 <!-- /wp:image -->
 
-
+**Article link**
 https://batch-man.com/edit-files-without-opening/
+  
+**Video link**
+https://youtu.be/yrveV-wz7cU
+  
